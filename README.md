@@ -1,2 +1,2 @@
 # AIProject
-ReactでAI
+ReactでAI機能を実装します
